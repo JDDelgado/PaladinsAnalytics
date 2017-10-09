@@ -1,0 +1,2 @@
+# PaladinsAnalytics
+Paladins Analytics
